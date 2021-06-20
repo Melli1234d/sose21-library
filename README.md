@@ -15,7 +15,4 @@ DB system for searching books in libraries.
 
     $ node src/index.js add-random-books
     
-    
-  ## ER-Modell
-  
-  https://miro.com/app/board/o9J_l_YFGc4=/?userEmail=mel.dawid@t-online.de&track=true&utm_source=notification&utm_medium=email&utm_campaign=add-to-team-and-board&utm_content=go-to-board
+
